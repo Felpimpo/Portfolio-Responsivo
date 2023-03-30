@@ -1,7 +1,6 @@
 /*==================== GOOGLE FONTES ====================*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 
-
 /*==================== VARIAVEIS CSS ====================*/
 :root {
   --header-height: 3rem;
@@ -733,7 +732,6 @@ img {
 
 .portfolio_img {
   width: 400px;
-  height: 400px;
 
   object-fit: scale-down;
   border-radius: 0.5rem;
